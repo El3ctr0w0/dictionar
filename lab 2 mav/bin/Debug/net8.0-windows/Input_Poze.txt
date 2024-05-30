@@ -1,0 +1,23 @@
+5
+Ananas
+Link
+C:/Csharp/Ananas.jpg
+Este un fruct exotic
+Fruct exotic
+Mar
+Este un fruct de alunga doctorii
+Fruct
+Para
+A trece (sau a sari) prin foc si (cuvantul)
+Fruct
+Portocala
+Este un fruct citric , de obicei nu dulce
+Fruct citric
+Pepene
+Este un fruct de sezon verde cu dungi verzi inchise
+Fruct de sezon
+4
+Fruct exotic
+Fruct
+Fruct citric
+Fruct de sezon

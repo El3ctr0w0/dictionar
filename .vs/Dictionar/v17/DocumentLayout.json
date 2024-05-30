@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\cont.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\administrativ.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\administrativ.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\informatiilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\informatiilist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\informatii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\informatii.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\administrativ.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\administrativ.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\contlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\contlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\administrativ.xaml||{8D42AE58-4628-4780-AC3C-6B7E6DE7A92A}|",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\administrativ.xaml||{8D42AE58-4628-4780-AC3C-6B7E6DE7A92A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\cautare_de_cuvinte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\cautare_de_cuvinte.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\divertisment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\divertisment.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\divertisment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\divertisment.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\cautare_de_cuvinte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\cautare_de_cuvinte.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\input.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|c:\\users\\lungu\\onedrive\\desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43BBC0BF-CD31-4EFC-B809-820B88941B7F}|lab 2 mav\\Dictionar.csproj|solutionrelative:lab 2 mav\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1086170174:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Cont.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cont.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Cont.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cont.cs",
+              "RelativeToolTip": "lab 2 mav\\Cont.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:30:06.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrativ.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\Administrativ.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml",
+              "RelativeToolTip": "lab 2 mav\\Administrativ.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T09:20:21.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InformatiiList.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\InformatiiList.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\InformatiiList.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\InformatiiList.cs",
+              "RelativeToolTip": "lab 2 mav\\InformatiiList.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAowB8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:47:54.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Login.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Login.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\Login.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:24:34.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\App.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\App.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\App.xaml",
+              "RelativeToolTip": "lab 2 mav\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T08:39:22.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Informatii.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Informatii.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Informatii.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Informatii.cs",
+              "RelativeToolTip": "lab 2 mav\\Informatii.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAwEAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:35:30.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\MainWindow.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T08:39:08.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Administrativ.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Administrativ.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\Administrativ.xaml.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAGAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:26:23.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ContList.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\ContList.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\ContList.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\ContList.cs",
+              "RelativeToolTip": "lab 2 mav\\ContList.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-09T15:30:35.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Administrativ.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\Administrativ.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Administrativ.xaml",
+              "RelativeToolTip": "lab 2 mav\\Administrativ.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-05-30T10:18:46.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Cautare_de_cuvinte.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cautare_de_cuvinte.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Cautare_de_cuvinte.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cautare_de_cuvinte.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\Cautare_de_cuvinte.xaml.cs",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAAwHAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:26:14.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\App.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\App.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T19:58:55.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Divertisment.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Divertisment.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\Divertisment.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Divertisment.xaml",
+              "RelativeToolTip": "lab 2 mav\\Divertisment.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T09:21:21.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Divertisment.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Divertisment.xaml.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\Divertisment.xaml.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Divertisment.xaml.cs",
+              "RelativeToolTip": "lab 2 mav\\Divertisment.xaml.cs",
+              "ViewState": "AQIAAFgAAAAAAAAAAAAowFgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:26:19.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\MainWindow.xaml",
+              "RelativeToolTip": "lab 2 mav\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T08:11:40.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Cautare_de_cuvinte.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cautare_de_cuvinte.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\Cautare_de_cuvinte.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Cautare_de_cuvinte.xaml",
+              "RelativeToolTip": "lab 2 mav\\Cautare_de_cuvinte.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-05T09:20:57.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Login.xaml",
+              "RelativeDocumentMoniker": "lab 2 mav\\Login.xaml",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Login.xaml",
+              "RelativeToolTip": "lab 2 mav\\Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-03-09T15:21:39.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Input.txt",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Input.txt",
+              "RelativeDocumentMoniker": "lab 2 mav\\Input.txt",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\Input.txt",
+              "RelativeToolTip": "lab 2 mav\\Input.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-03-05T20:13:31.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "lab 2 mav\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\lungu\\OneDrive\\Desktop\\facultate_anu_2\\dictionar\\lab 2 mav\\AssemblyInfo.cs",
+              "RelativeToolTip": "lab 2 mav\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-05T09:26:22.199Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

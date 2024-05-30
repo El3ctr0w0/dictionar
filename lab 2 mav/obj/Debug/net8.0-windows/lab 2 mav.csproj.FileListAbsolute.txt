@@ -1,0 +1,56 @@
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Administrativ.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Cautare_de_cuvinte.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Divertisment.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav_MarkupCompile.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav_MarkupCompile.lref
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.exe
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.deps.json
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.runtimeconfig.json
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.pdb
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Administrativ.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Cautare_de_cuvinte.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\Divertisment.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.g.resources
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.AssemblyInfoInputs.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.AssemblyInfo.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.csproj.CoreCompileInputs.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\refint\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.pdb
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.genruntimeconfig.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\ref\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\S3D\Lab2 Hello DirectX 11\lab 2 mav\lab 2 mav\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.exe
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.deps.json
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.runtimeconfig.json
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\bin\Debug\net8.0-windows\lab 2 mav.pdb
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Administrativ.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Cautare_de_cuvinte.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Divertisment.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav_MarkupCompile.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav_MarkupCompile.lref
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Administrativ.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Cautare_de_cuvinte.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Divertisment.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.g.resources
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.AssemblyInfoInputs.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.AssemblyInfo.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.csproj.CoreCompileInputs.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\refint\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.pdb
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\lab 2 mav.genruntimeconfig.cache
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\ref\lab 2 mav.dll
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Login.g.cs
+C:\Users\lungu\OneDrive\Desktop\facultate_anu_2\sem 2\MVP\lab 3 mav\lab 2 mav\obj\Debug\net8.0-windows\Login.baml
